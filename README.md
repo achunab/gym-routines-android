@@ -26,4 +26,4 @@ val dia = Calendar.DAY_OF_WEEK
 // AHORA (correcto): hoy da 5 = Jueves
 val dia = Calendar.getInstance().get(Calendar.DAY_OF_WEEK)
 👩‍💻 Autor - Andy Chunab | Coach ZaziL | Yucatán, México
-Comentarios - 01/10/2026⭐ Si te gusta la rutina, ¡dale Star al repo!
+Hoy 01/10/2026 publiqué mi primera app open source - ⭐ Si te gusta la aplicación, ¡dale Star al repo!
