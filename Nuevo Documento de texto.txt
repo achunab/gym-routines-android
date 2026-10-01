@@ -1,0 +1,2 @@
+terminal
+./gradlew :app:generateBaselineProfile
